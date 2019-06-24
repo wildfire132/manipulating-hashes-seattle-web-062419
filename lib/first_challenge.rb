@@ -13,7 +13,7 @@ def first_challenge
     }
   }
 
-
+contacts["Freddy Mecury"]
   contacts
 end
 
